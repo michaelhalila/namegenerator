@@ -50,17 +50,17 @@ public class NameGenerator {
             System.out.println("Problem! Name too long.");
         }
         
-        System.out.println("");
-        System.out.println("Dark Elf Blood Bowl Names");
+        //System.out.println("");
+        //System.out.println("Dark Elf Blood Bowl Names");
         
-        String darkElfLinemanName = generateBloodBowlDarkElfLinemanName();
-        String darkElfBlitzerName = generateBloodBowlDarkElfBlitzerName();
+        //String darkElfLinemanName = generateBloodBowlDarkElfLinemanName();
+        //String darkElfBlitzerName = generateBloodBowlDarkElfBlitzerName();
         
-        System.out.println("Lineman: " + darkElfLinemanName);
-        System.out.println("Blitzer: " + darkElfBlitzerName);
-        System.out.println("");
+        //System.out.println("Lineman: " + darkElfLinemanName);
+        //System.out.println("Blitzer: " + darkElfBlitzerName);
+        //System.out.println("");
         
-        Application.launch(GraphicInterface.class);
+        //Application.launch(GraphicInterface.class);
         
     }
     
